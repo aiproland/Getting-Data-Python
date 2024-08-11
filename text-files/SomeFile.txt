@@ -1,0 +1,8 @@
+ I tried to write a program in my Python
+ This is my requirement:
+ 1) Accept the input
+ 2) Read this csv file 
+ 3) count the num of words and characters from this csv file 
+ 4) and write the results 
+ num of words and characters of the csv file into another text file
+ number 1 to 4 are necessary to run the code
