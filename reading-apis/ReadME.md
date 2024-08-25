@@ -1,1 +1,1 @@
-Getting Data i Python - Fetch and read Free APIs 
+Getting Data in Python - Fetch and read Free APIs 
