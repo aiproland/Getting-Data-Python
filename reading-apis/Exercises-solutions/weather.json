@@ -1,0 +1,96 @@
+{
+    "_id": "57000b8745fd40c8196ad04c",
+    "createdAt": "2022-03-30T11:25:43.219Z",
+    "exposure": "outdoor",
+    "name": "Oststr/Mauritzsteinpfad",
+    "sensors": [
+        {
+            "_id": "57000b8745fd40c8196ad04e",
+            "lastMeasurement": null,
+            "sensorType": "VEML6070",
+            "title": "UV-Intensität",
+            "unit": "μW/cm²"
+        },
+        {
+            "_id": "57000b8745fd40c8196ad04f",
+            "lastMeasurement": null,
+            "sensorType": "TSL45315",
+            "title": "Beleuchtungsstärke",
+            "unit": "lx"
+        },
+        {
+            "_id": "57000b8745fd40c8196ad050",
+            "lastMeasurement": null,
+            "sensorType": "BMP280",
+            "title": "Luftdruck",
+            "unit": "hPa"
+        },
+        {
+            "_id": "57000b8745fd40c8196ad051",
+            "lastMeasurement": null,
+            "sensorType": "HDC1008",
+            "title": "rel. Luftfeuchte",
+            "unit": "%"
+        },
+        {
+            "_id": "57000b8745fd40c8196ad052",
+            "lastMeasurement": null,
+            "sensorType": "HDC1008",
+            "title": "Temperatur",
+            "unit": "°C"
+        },
+        {
+            "_id": "58f0bdd0ba279000119b9c97",
+            "icon": "osem-temperature-celsius",
+            "sensorType": "Eltako FAFT60",
+            "unit": "°C",
+            "title": "Temperatur Terrasse",
+            "lastMeasurement": null
+        },
+        {
+            "_id": "58f0bdd0ba279000119b9c98",
+            "icon": "osem-humidity",
+            "sensorType": "Eltako FAFT60",
+            "unit": "%",
+            "title": "rel. Luftfeuchte Terrasse",
+            "lastMeasurement": null
+        },
+        {
+            "_id": "58f0cea0ba279000119c497e",
+            "icon": "osem-battery",
+            "sensorType": "Eltako FAFT60",
+            "unit": "V",
+            "title": "Akkuspannung Terrasse",
+            "lastMeasurement": null
+        }
+    ],
+    "updatedAt": "2022-03-30T11:25:43.219Z",
+    "description": "Experimenteller Aufbau mit ESP8266, Solarzelle und Akku. Es werden die handelsüblichen senseBox Sensoren verwendet.\nDas Gerät ist nach Südosten ausgerichtet wird jedoch im Sommer von Bäumen abgeschattet.",
+    "image": "57000b8745fd40c8196ad04c.jpg?1490540483609",
+    "model": "custom",
+    "currentLocation": {
+        "coordinates": [
+            7.64568,
+            51.962372
+        ],
+        "type": "Point",
+        "timestamp": "2016-04-02T18:12:23.000Z"
+    },
+    "lastMeasurementAt": "2020-07-18T14:33:22.833Z",
+    "grouptag": [
+        ""
+    ],
+    "loc": [
+        {
+            "geometry": {
+                "coordinates": [
+                    7.64568,
+                    51.962372
+                ],
+                "type": "Point",
+                "timestamp": "2016-04-02T18:12:23.000Z"
+            },
+            "type": "Feature"
+        }
+    ]
+}
